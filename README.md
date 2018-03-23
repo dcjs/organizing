@@ -20,7 +20,7 @@ Big thanks to our current sponsor: [CoStar Group](http://www.costar.com/)! Our s
 
 ### Interested in Sponsoring?
 
-The DCJS meetup is always looking for sponsors and happy to find a way for your organization to help. We can custom tailor a package that gets you exposure to our 2600+ member group. Reach out to us either through a [meetup message](https://www.meetup.com/DC-JavaScript/members/?op=leaders) or with an [issue on this GitHub repository](https://github.com/dcjs/organizing/issues)!
+The DCJS meetup is always looking for sponsors and happy to find a way for your organization to help. We can custom tailor a package that gets you exposure to our 2600+ member group. Reach out to us either through a [meetup message](https://www.meetup.com/DC-JavaScript/members/?op=leaders) or with an [issue on this GitHub repository](https://github.com/dcjs/talks/issues)!
 
 ## Who's involved?
 
